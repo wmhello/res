@@ -36,7 +36,7 @@
 + 特片:http://www.tepian.com/
 + 同步影院:http://www.tongbuyy.com/oumeiju/
 + 原来天天美剧网:http://www.yuanlai521.com/
-+ 高清视界:http://www.4567.tv/
++ ~~ 高清视界:http://www.4567.tv/ ~~
 + 8oS: http://www.80s.tw
 + 全看TV : http://www.quankan.tv/
 + 起飞电影网 : http://www.ehecom.com/index.html

@@ -3,6 +3,7 @@
 ## 电视直播
 + 直播吧: http://www.zhiboo.net/
 + 江苏卫视: http://live.jstv.com/
++ jsr体育直播: http://nba.tmiaoo.com/nba.html
 
 
 

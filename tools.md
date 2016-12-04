@@ -24,6 +24,11 @@
 + Ascii流程图 : http://asciiflow.com/
 + 1024tools:https://1024tools.com/
 + oschina:http://tool.oschina.net/
++ shell练习:http://cb.vu/
+
+## API
++ 百度语音朗读:http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&text=%E4%BC%98%E9%85%B7%E5%BD%95%E5%B1%8F%E5%A4%A7%E5%B8%88
++ 模拟数据:https://apiary.io/
 
 ## 解密
 + php在线解密: http://dezend.qiling.org/
@@ -31,9 +36,13 @@
 
 + 国家代码查询 : https://countrycode.org/
 
-## 在线Markdwon
+## 在线编辑
 + zybuluo : https://www.zybuluo.com/
 + markdown_table生成 : http://www.tablesgenerator.com/markdown_tables
++ processon协作:http://www.processon.com/
++ 石墨:https://shimo.im/
++ tower在线办公:https://tower.im/
++ 钉钉:https://www.dingtalk.com/
 
 ## 其他工具
 + video_to_gif: http://ezgif.com/video-to-gif
@@ -41,3 +50,4 @@
 + 在线测速: http://www.speedtest.net/
 + 在线签到: https://qiandao.today/
 + 微信对话生成: http://www.duihuashengchengqi.com/
++ 飞机航班追踪：https://www.flightradar24.com/

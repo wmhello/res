@@ -115,6 +115,7 @@
 + 豆瓣请不要害羞: https://haixiu.herokuapp.com/
 + reddit: https://www.reddit.com/
 + 微博视频下载: http://www.weibovideo.com/
++ 斗鱼火箭监控:http://douyu.shiniv.com/
 
 ## 资讯
 + 免费吧: http://www.mianfeib.com/

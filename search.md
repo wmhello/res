@@ -25,3 +25,4 @@
 + btavmo:  http://www.btavmo.com/
 + coretorrents:  http://coretorrents.com/
 + mytorrents:  http://mytorrents.org/
++ bt1024:  http://www.bt1024.net/

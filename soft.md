@@ -6,6 +6,7 @@
 + 小众软件: http://www.appinn.com/
 + 异次元:http://www.iplaysoft.com/
 + 精品绿色便携软件 : http://www.portablesoft.org/
++ 大眼仔 : http://www.dayanzai.me/
 + 少轻狂: http://www.flighty.cn/
 + 殁漂遥: http://www.shaoit.com/
 

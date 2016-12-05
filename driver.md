@@ -47,9 +47,12 @@
 + 990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
-+ sdyhy:http://www.sdyhy.cn/
 + mt2t:http://mt2t.com/yun?url=http://www.mgtv.com/v/1/303260/f/3665598.html
 + gakui:http://player.gakui.top/?url=http://www.mgtv.com/v/1/303260/f/3665598.html
++ 五奇艺:http://vip.sdyhy.cn/ckflv/?url=
++ qtzr:http://qtzr.net/s/?qt=
++ xiguaso:http://www.xiguaso.com/api/index.php?url=
++ vipjiexi:http://www.vipjiexi.com/yun.php?url=
 
 #### 芒果tv
 + 47ks: http://v.47ks.com/v2/videoplayer/api.html?u=http://www.mgtv.com/v/3/293930/f/3623801.html
@@ -77,7 +80,6 @@
 + 97zxkan: http://www.97zxkan.com/jiexi/97zxkanapi.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
 + 20000817: http://sp.20000817.pw/?url=http://www.iqiyi.com/v_19rrm2t3x0.html
 + wanwantv: http://vip.wanwantv.com/yunparse/?url=http://www.iqiyi.com/v_19rrlzki4s.html
-+ qtzr: http://qtzr.net/s/?qt=http://www.iqiyi.com/v_19rr9nt2p8.html
 
 
 #### 乐视

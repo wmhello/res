@@ -35,7 +35,7 @@
 + wmxz: http://www.wmxz.wang/video.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html (`高清`)
 `其他域名http://100000001.top(1-10):支持域名绑定A记录解析到47.89.49.245`
 + aikantv: http://jx.aikantv.cc/index.php?url=http://www.mgtv.com/v/3/8849/f/307467.html (`高清`)
-+ moondown: http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/3/8849/f/307467.html
++ ~~ moondown: http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/3/8849/f/307467.html ~~
 `测试页面：http://moon.moondown.net/moon.php可以实时查看哪些接口失效`
 + 000o: http://000o.cc/jx/ty.php?url=http://www.mgtv.com/v/1/298442/f/3640929.html
 + yydy8: http://www.yydy8.com/Common/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)

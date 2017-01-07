@@ -25,3 +25,7 @@
 
 ## apple
 + 保修查询: https://checkcoverage.apple.com/cn/zh
+
+
+##
++ 滚蛋吧！莆田系: https://putianxi.github.io/index.html

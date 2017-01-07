@@ -3,6 +3,7 @@
 + FileLocatorPro :全文检索,可以解决跨文件搜索excel内容
 + Rolan :小巧的快捷启动
 + Snipaste:截图
++ typora: https://typora.io/#windows
 
 
 ## Mac

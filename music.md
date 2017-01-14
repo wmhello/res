@@ -11,6 +11,7 @@
 + 雅音: http://itwusun.com/
 + 虾米: http://www.xiami.com/
 + 网易云音乐: http://music.163.com/
++ echo: http://www.app-echo.com/#/
 
 ### 白噪音
 

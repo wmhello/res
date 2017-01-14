@@ -52,3 +52,4 @@
 + 在线签到: https://qiandao.today/
 + 微信对话生成: http://www.duihuashengchengqi.com/
 + 飞机航班追踪：https://www.flightradar24.com/
++ 清华大学镜像站:https://mirrors.tuna.tsinghua.edu.cn/

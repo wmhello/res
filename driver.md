@@ -117,7 +117,10 @@
 + 豆瓣请不要害羞: https://haixiu.herokuapp.com/
 + reddit: https://www.reddit.com/
 + 微博视频下载: http://www.weibovideo.com/
-+ 斗鱼火箭监控:http://douyu.shiniv.com/
++ bilibili解析: http://www.ibilibili.com/video/av8355080/
++ 斗鱼火箭监控: http://douyu.shiniv.com/
++ 百度外链不限速: http://pan.plyz.net/
++ 福利油猴脚本: https://sleazyfork.org/zh-CN
 
 ## 资讯
 + 免费吧: http://www.mianfeib.com/

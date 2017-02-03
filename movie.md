@@ -23,6 +23,7 @@
 + 我飞网:  http://www.bestxl.com/
 + 泡饭影视:  http://www.chapaofan.com/
 + 天天美剧:  http://www.ttmeiju.com/
++ 天天美剧电影:http://www.ttmeiju.com/meiju/Movie.html
 + 电影FM : http://dianying.fm/
 + kickass:  https://kickass.to/
 + MP4吧:  http://www.mp4ba.com/
@@ -46,6 +47,7 @@
 ### 手机影院
 + 大卫手机影院 : http://140tv.com/
 + 影视之家 : http://www.yingshimp.com/
++ 74hy: http://www.74hy.com/type/1.html
 
 ### 纪录片精品网站
 + Free DocumentAries：http://freedocumentaries.org/

@@ -25,7 +25,10 @@
 
 ## apple
 + 保修查询: https://checkcoverage.apple.com/cn/zh
++ iPhone 6s 意外关机问题计划: https://www.apple.com/cn/support/iphone6s-unexpectedshutdown/
 
-
-##
+## 其他
 + 滚蛋吧！莆田系: https://putianxi.github.io/index.html
+
+
+

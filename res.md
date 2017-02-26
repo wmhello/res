@@ -29,3 +29,7 @@
 ## 编程教程
 + runoob: http://www.runoob.com/
 + w3school: http://w3school.com.cn/
+
+## 其他
++ 华中农业大学图书馆帐号:账号密码均为：`2014306120006`
+

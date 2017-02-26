@@ -121,6 +121,7 @@
 + 斗鱼火箭监控: http://douyu.shiniv.com/
 + 百度外链不限速: http://pan.plyz.net/
 + 福利油猴脚本: https://sleazyfork.org/zh-CN
++ 网易云音乐: http://projects.qiyichao.cn/netease-music-parse/
 
 ## 资讯
 + 免费吧: http://www.mianfeib.com/
@@ -136,3 +137,8 @@
 + magazinesdownload: http://magazinesdownload.org/
 + vr: https://www.alicex.com/
 + 绝对领域 : http://www.jdlingyu.moe/
++ 骨感女穿包臀裙:https://www.douban.com/photos/album/1632810621/
++ 别总是在我背后:https://www.douban.com/people/56491865/
++ 看bilibili:http://www.kanbilibili.com/
+
+

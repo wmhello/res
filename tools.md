@@ -25,6 +25,8 @@
 + 1024tools:https://1024tools.com/
 + oschina:http://tool.oschina.net/
 + shell练习:http://cb.vu/
++ rsa和pkcs8转换:https://www.chinassl.net/ssltools/convert-key.html
++ 程序在线工具:http://tool.lu/
 
 ## API
 + 百度语音朗读:http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&text=%E4%BC%98%E9%85%B7%E5%BD%95%E5%B1%8F%E5%A4%A7%E5%B8%88
@@ -33,7 +35,6 @@
 ## 解密
 + php在线解密: http://dezend.qiling.org/
 + md5解密: http://cmd5.com/
-
 + 国家代码查询 : https://countrycode.org/
 
 ## 在线编辑
@@ -53,3 +54,8 @@
 + 微信对话生成: http://www.duihuashengchengqi.com/
 + 飞机航班追踪：https://www.flightradar24.com/
 + 清华大学镜像站:https://mirrors.tuna.tsinghua.edu.cn/
++ dll之家:http://www.dllzj.com/
++ 流量宝:http://www.liuliangbao.cn/
++ 百度网盘永久直链外链:http://pan.plyz.net/
++ 艺匠独立作品:https://artizen.cc/
+

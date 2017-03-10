@@ -15,6 +15,7 @@
 + 编码转换 : http://tool.chinaz.com/Tools/Unicode.aspx
 + Json检验 : http://www.bejson.com/
 + Json检验 : http://pro.jsonlint.com/
++ Json检验带错误行 : http://www.json.cn/
 + ping工具 : http://ping.chinaz.com/
 + RGB颜色查询 : http://www.atool.org/colorpicker.php
 + 字符串处理 : http://www.5ixuexiwang.com/str/compress.php
@@ -27,6 +28,7 @@
 + shell练习:http://cb.vu/
 + rsa和pkcs8转换:https://www.chinassl.net/ssltools/convert-key.html
 + 程序在线工具:http://tool.lu/
++ 多线路速度测试:http://ping.chinaz.com/45.76.185.184
 
 ## API
 + 百度语音朗读:http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&text=%E4%BC%98%E9%85%B7%E5%BD%95%E5%B1%8F%E5%A4%A7%E5%B8%88
@@ -58,4 +60,5 @@
 + 流量宝:http://www.liuliangbao.cn/
 + 百度网盘永久直链外链:http://pan.plyz.net/
 + 艺匠独立作品:https://artizen.cc/
++ dnsmasq:https://g2w.online/
 

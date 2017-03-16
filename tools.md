@@ -29,10 +29,12 @@
 + rsa和pkcs8转换:https://www.chinassl.net/ssltools/convert-key.html
 + 程序在线工具:http://tool.lu/
 + 多线路速度测试:http://ping.chinaz.com/45.76.185.184
++ github的star管理:http://gitconstellation.com/#/
 
 ## API
 + 百度语音朗读:http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&text=%E4%BC%98%E9%85%B7%E5%BD%95%E5%B1%8F%E5%A4%A7%E5%B8%88
 + 模拟数据:https://apiary.io/
++ **在线api文档**: http://devdocs.io/
 
 ## 解密
 + php在线解密: http://dezend.qiling.org/
@@ -47,6 +49,8 @@
 + tower在线办公:https://tower.im/
 + 钉钉:https://www.dingtalk.com/
 + 马克飞象:https://maxiang.io/
++ 在线时序图:https://www.websequencediagrams.com/
++ stackedit:https://stackedit.io/
 
 ## 其他工具
 + video_to_gif: http://ezgif.com/video-to-gif
@@ -61,4 +65,5 @@
 + 百度网盘永久直链外链:http://pan.plyz.net/
 + 艺匠独立作品:https://artizen.cc/
 + dnsmasq:https://g2w.online/
++ tinypng:https://tinypng.com/
 

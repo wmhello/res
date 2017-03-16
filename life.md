@@ -22,6 +22,7 @@
 + 社会保险查询 : http://wssb.gdsi.gov.cn/szggfwxt/login.jsp
 + 广州市公安局 : http://www.gzjd.gov.cn/
 + 身份证补领 : http://121.8.227.165/house_client/hzAdvisory/birthRegion.do?bis.id=274
++ 社保卡 : http://card.gz.gov.cn/
 
 ## apple
 + 保修查询: https://checkcoverage.apple.com/cn/zh

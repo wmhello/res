@@ -66,4 +66,5 @@
 + 艺匠独立作品:https://artizen.cc/
 + dnsmasq:https://g2w.online/
 + tinypng:https://tinypng.com/
++ 方糖收微信消息:http://sc.ftqq.com/3.version
 

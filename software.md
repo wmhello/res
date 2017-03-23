@@ -5,6 +5,10 @@
 + FileLocatorPro :全文检索,可以解决跨文件搜索excel内容
 + Rolan :小巧的快捷启动
 + Snipaste:截图
++ cmder:window系统自带cmd替换
++ AutoHotKey:快捷键
++ Clover:资源管理器
++ Beyond Compare : 文件比较器;
 
 
 ## Mac

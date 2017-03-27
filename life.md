@@ -24,6 +24,7 @@
 + 身份证补领 : http://121.8.227.165/house_client/hzAdvisory/birthRegion.do?bis.id=274
 + 社保卡 : http://card.gz.gov.cn/
 + 万修手机 : http://www.1fix.cn/
++ 广州市国土资源和房屋管理局: http://www.laho.gov.cn/ywpd/zfbz/
 
 ## apple
 + 保修查询: https://checkcoverage.apple.com/cn/zh
@@ -31,6 +32,3 @@
 
 ## 其他
 + 滚蛋吧！莆田系: https://putianxi.github.io/index.html
-
-
-

@@ -4,6 +4,7 @@
 + [资源搜索](search.md)
 + [软件站](soft_site.md)
 + [软件推荐](software.md)
++ [软件key](soft_key.md)
 + [在线工具](tools.md)
 + [游戏](game.md)
 + [电影](movie.md)

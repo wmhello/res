@@ -1,5 +1,8 @@
 # 在线工具类网站
 
+## 生活类
++ 在线听歌: http://lab.mkblog.cn/music/
+
 ## 翻译平台
 + Google翻译x: https://translate.google.com/
 + 有道: http://youdao.com/
@@ -30,6 +33,9 @@
 + 程序在线工具:http://tool.lu/
 + 多线路速度测试:http://ping.chinaz.com/45.76.185.184
 + github的star管理:http://gitconstellation.com/#/
++ 在线mock工具:http://apizza.cc
++ 在线gitignore生成工具:https://www.gitignore.io/
+
 
 ## API
 + 百度语音朗读:http://tts.baidu.com/text2audio?lan=zh&ie=UTF-8&text=%E4%BC%98%E9%85%B7%E5%BD%95%E5%B1%8F%E5%A4%A7%E5%B8%88
@@ -67,4 +73,5 @@
 + dnsmasq:https://g2w.online/
 + tinypng:https://tinypng.com/
 + 方糖收微信消息:http://sc.ftqq.com/3.version
-
++ 随机生成美国身份: http://www.haoweichi.com/Index/random
++ + 前端预处理器语言图形编译工具: http://koala-app.com/index-zh.html

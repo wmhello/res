@@ -34,25 +34,24 @@
 #### 通用接口
 + wmxz: http://www.wmxz.wang/video.php?url=http://www.mgtv.com/v/1/303260/f/3665598.html (`高清`)
 `其他域名http://100000001.top(1-10):支持域名绑定A记录解析到47.89.49.245`
-+ aikantv: http://jx.aikantv.cc/index.php?url=http://www.mgtv.com/v/3/8849/f/307467.html (`高清`)
-+ ~~ moondown: http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/3/8849/f/307467.html ~~
-`测试页面：http://moon.moondown.net/moon.php可以实时查看哪些接口失效`
++ ~~aikantv: http://jx.aikantv.cc/index.php?url=http://www.mgtv.com/v/3/8849/f/307467.html (`高清`)~~
++ moondown:http://moon.moondown.net/tong.php?url=http://www.mgtv.com/v/2/104817/f/3621326.html [测试页面](http://moon.moondown.net/moon.php)
 + 000o: http://000o.cc/jx/ty.php?url=http://www.mgtv.com/v/1/298442/f/3640929.html
-+ yydy8: http://www.yydy8.com/Common/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)
-+ ckparse: http://www.ckparse.com/ckparse/?url=http://www.mgtv.com/v/1/303260/f/3665598.html(`高清`)
++ yydy8: http://www.yydy8.com/Common/?url=http://www.mgtv.com/v/1/303260/f/3665598.html (`高清`)
++ ~~ckparse: http://www.ckparse.com/ckparse/?url=http://www.mgtv.com/v/1/303260/f/3665598.html (`高清`)~~
 + 九澧影院:http://dy.jiuli8.com/jiuli8/?url=
 + 紫狐:http://yun.zihu.tv/play.html?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 + wbg3721:http://api.wbg3721.club/?url=http://www.iqiyi.com/v_19rrm2pgd4.html?fc=8b62d5327a54411b#vfrm=19-9-0-1
-+ mp4la : http://api.mp4la.net/?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11
-+ 990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
-+ 990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
-+ 990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html
-+ mt2t:http://mt2t.com/yun?url=http://www.mgtv.com/v/1/303260/f/3665598.html
-+ gakui:http://player.gakui.top/?url=http://www.mgtv.com/v/1/303260/f/3665598.html
-+ 五奇艺:http://vip.sdyhy.cn/ckflv/?url=
-+ qtzr:http://qtzr.net/s/?qt=
-+ xiguaso:http://www.xiguaso.com/api/index.php?url=
-+ vipjiexi:http://www.vipjiexi.com/yun.php?url=
++ ~~mp4la : http://api.mp4la.net/?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11~~
++ ~~990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~mt2t:http://mt2t.com/yun?url=http://www.mgtv.com/v/1/303260/f/3665598.html~~
++ ~~五奇艺:http://vip.sdyhy.cn/ckflv/?url=~~
++ qtzr:http://qtzr.net/s/?qt=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
++ ~~xiguaso:http://www.xiguaso.com/api/index.php?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html~~
++ vipjiexi:http://www.vipjiexi.com/yun.php?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
+
 
 #### 芒果tv
 + 47ks: http://v.47ks.com/v2/videoplayer/api.html?u=http://www.mgtv.com/v/3/293930/f/3623801.html
@@ -140,5 +139,3 @@
 + 骨感女穿包臀裙:https://www.douban.com/photos/album/1632810621/
 + 别总是在我背后:https://www.douban.com/people/56491865/
 + 看bilibili:http://www.kanbilibili.com/
-
-

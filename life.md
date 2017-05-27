@@ -25,6 +25,7 @@
 + 社保卡 : http://card.gz.gov.cn/
 + 万修手机 : http://www.1fix.cn/
 + 广州市国土资源和房屋管理局: http://www.laho.gov.cn/ywpd/zfbz/
++ 广州摇号: http://apply.gzjt.gov.cn/apply/person/apply.html
 
 ## apple
 + 保修查询: https://checkcoverage.apple.com/cn/zh

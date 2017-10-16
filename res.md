@@ -24,6 +24,7 @@
 + android-sdk-offline : http://www.april1985.com/android-sdk-offline/
 + android-studio: http://www.android-studio.org/
 + android-doc: http://www.android-doc.com/index.html
++ flysnow: http://mirrors.flysnow.org/
 
 
 ## 编程教程

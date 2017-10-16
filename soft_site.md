@@ -17,6 +17,7 @@
 + 反斗软件: http://www.apprcn.com/
 + 爱情守望者: http://www.waitsun.com/
 + 威锋: http://bbs.feng.com/forum.php?mod=forumdisplay&fid=19&page=
++ macpeers: https://www.macpeers.com/
 
 ## 源码站
 + 资源爱好者: http://www.aihao.org/

@@ -11,6 +11,7 @@
 
 ## 字体
 + 找字体: http://www.qiuziti.com/
++ 字由: http://hellofont.cn/
 
 ## 设计网站
 + 优设: http://www.uisdc.com
@@ -27,11 +28,13 @@
 + 标你妹 : http://www.biaonimeia.com/main
 + 截图贴图 : http://zh.snipaste.com/
 + 配色 : http://www.fancynode.com.cn/colorcube/home
++ 配色 : http://www.colorhunt.co/
 
 
 ## 壁纸
 + picswalls : http://www.picswalls.com/
 + brothersoft : http://wallpapers.brothersoft.com/
++ unsplash : https://unsplash.com/
 
 ## Icon
 + nucleoapp : https://nucleoapp.com/

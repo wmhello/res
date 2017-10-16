@@ -42,14 +42,14 @@
 + 九澧影院:http://dy.jiuli8.com/jiuli8/?url=
 + 紫狐:http://yun.zihu.tv/play.html?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 + wbg3721:http://api.wbg3721.club/?url=http://www.iqiyi.com/v_19rrm2pgd4.html?fc=8b62d5327a54411b#vfrm=19-9-0-1
-+ ~~mp4la : http://api.mp4la.net/?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11~~
-+ ~~990969_1: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
-+ ~~990969_2: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
-+ ~~990969_3: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
-+ ~~mt2t:http://mt2t.com/yun?url=http://www.mgtv.com/v/1/303260/f/3665598.html~~
-+ ~~五奇艺:http://vip.sdyhy.cn/ckflv/?url=~~
++ ~~mp4la~~ : http://api.mp4la.net/?url=http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11~~
++ ~~990969_1~~: http://www.990969.top/jiu/vip1.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~990969_2~~: http://www.990969.top/jiu/vip2.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~990969_3~~: http://www.990969.top/jiu/vip3.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html~~
++ ~~mt2t~~:http://mt2t.com/yun?url=http://www.mgtv.com/v/1/303260/f/3665598.html~~
++ ~~五奇艺~~:http://vip.sdyhy.cn/ckflv/?url=~~
 + qtzr:http://qtzr.net/s/?qt=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
-+ ~~xiguaso:http://www.xiguaso.com/api/index.php?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html~~
++ ~~xiguaso~~:http://www.xiguaso.com/api/index.php?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html~~
 + vipjiexi:http://www.vipjiexi.com/yun.php?url=http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 
 
@@ -121,6 +121,7 @@
 + 百度外链不限速: http://pan.plyz.net/
 + 福利油猴脚本: https://sleazyfork.org/zh-CN
 + 网易云音乐: http://projects.qiyichao.cn/netease-music-parse/
++ youtube: http://www.nsfwyoutube.com/watch?v=URm4v4mjzh4
 
 ## 资讯
 + 免费吧: http://www.mianfeib.com/

@@ -56,7 +56,12 @@
 + 钉钉:https://www.dingtalk.com/
 + 马克飞象:https://maxiang.io/
 + 在线时序图:https://www.websequencediagrams.com/
++ 在线时序图:http://chartmage.com/intro.html
++ 在线时序图:http://knsv.github.io/mermaid/live_editor/
 + stackedit:https://stackedit.io/
+
+## 在线图片编辑
++ svn转换成png: http://svgtopng.com/zh/
 
 ## 其他工具
 + video_to_gif: http://ezgif.com/video-to-gif
@@ -74,4 +79,8 @@
 + tinypng:https://tinypng.com/
 + 方糖收微信消息:http://sc.ftqq.com/3.version
 + 随机生成美国身份: http://www.haoweichi.com/Index/random
-+ + 前端预处理器语言图形编译工具: http://koala-app.com/index-zh.html
++ 前端预处理器语言图形编译工具: http://koala-app.com/index-zh.html
+
+
+## 社工检测
++ haveibeenpwned: https://haveibeenpwned.com/
